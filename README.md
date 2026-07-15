@@ -54,14 +54,6 @@ Engenharia Química (UFMG) e estágio na **BRASS Brasil**, atuando em Sistemas d
 
 Portfólio completo com todos os projetos (IndustrialEco, AI Data Bridge, VoxFinance, LDS e outros) disponível no meu GitHub.
 
----
-
-### GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasOliverno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOliverno&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasOliverno&theme=tokyonight&hide_border=true" />
